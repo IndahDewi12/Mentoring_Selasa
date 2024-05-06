@@ -64,7 +64,7 @@ window.addEventListener('load', function () {
       minPadding: 0.2,
       maxPadding: 0.2,
       title: {
-        text: 'Temperature',
+        text: 'Temperature(°C)',
         margin: 80
       }
     },
